@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="auth-split">
-        <div class="auth-scene-panel">
+        <div class="auth-scene-panel" style="position:relative;">
             <div class="auth-scene-content">
                 @yield('scene')
             </div>
